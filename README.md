@@ -20,13 +20,13 @@
 
 For this week's task, you'll be refining your personal portfolio page using CSS. Here are the specific enhancements to implement:
 
-1. **Heading and Paragraph Styles**: Apply appropriate styles to headings and paragraphs to enhance readability and visual appeal. For example, you can experiment with different font sizes, colors, and text alignments.
+1. **Heading and Paragraph Styles**: Apply styles to headings and paragraphs. For example, `color`, and `text-align`.
 
-2. **Backgrounds**: Experiment with background colors or images to add depth and visual interest to your portfolio. You can use CSS properties like `background-color` and `background-image` to achieve this effect.
+2. **Backgrounds**: Add background colors or images. You can use CSS properties like `background-color` and `background-image` to achieve this effect.
 
-3. **Typography**: Adjust font sizes and families to ensure a cohesive and professional look across your page. You can use the `font-size` and `font-family` properties to customize the typography.
+3. **Typography**: Adjust font sizes and families. You can use the `font-size` and `font-family` properties to customize the typography.
 
-4. **Layout Refinements**: Utilize margin, padding, and border properties to fine-tune the spacing and alignment of elements for a polished layout. For instance, you can use `margin` to control the space around elements, `padding` to adjust the space inside elements, and `border` for creating visual boundaries.
+4. **Layout Refinements**: Utilize margin, padding, and border properties. For instance, you can use `margin` to control the space around elements, `padding` to adjust the space inside elements, and `border` for creating visual boundaries.
 
 
 **Example**:
