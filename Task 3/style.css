@@ -1,0 +1,20 @@
+body{
+    background-color: darkgreen;
+    color: azure;
+}
+
+h1{
+    color: darkred;
+}
+
+.mp{
+    color: orangered;
+}
+a{
+    color: orange;
+}
+button{
+    background-color: darkred;
+    font-size: 20px;
+    border-radius: 10px;
+}
